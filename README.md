@@ -1,4 +1,4 @@
-MAKING EDUCATION
+Making Education
 ================
 
 School: NYU Abu Dhabi   
