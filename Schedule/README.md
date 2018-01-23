@@ -5,7 +5,7 @@ WEEKS 01 - 03: Learning Theory & Instructional Design
 WEEKS 04 - 07: Kathmandu, Karkhana Org, & Ethnography  
 --- SPRING BREAK TRIP ---  
 WEEKS 08 - 11: Post-trip Reflection & Production Cycle  
-WEEKS 12 - 14: Final Production Cycle & Analysis
+WEEKS 12 - 15: Final Production Cycle & Analysis
 
 ### WEEK 1 - Jan 22 & 24
 
@@ -41,7 +41,7 @@ WEEKS 12 - 14: Final Production Cycle & Analysis
 * Discuss Readings & Homework  
 * Activity: Project Driven Learning
 * Post Class
-	* Stager, G. & Martinez, S.(2013). What makes a good project? In Invent to learn: Making, tinkering, and engineering in the classroom ( 58-67 ). Torrance, CA: Constructing Modern Knowledge Press.
+	* READ Stager, G. & Martinez, S.(2013). What makes a good project? In Invent to learn: Making, tinkering, and engineering in the classroom ( 58-67 ). Torrance, CA: Constructing Modern Knowledge Press.
 	* WATCH Massimo Banzi "How Arduino Is Open-Sourcing Imagination"
 
 #### 150 min class: Iteration  
@@ -126,7 +126,7 @@ WEEKS 12 - 14: Final Production Cycle & Analysis
 * Peer critique of prototypes
 * Brainstorm ideas for next step
 * Post Class
-	* Review Karkhana lesson plans
+	* REVIEW Karkhana lesson plans
 
 #### 150 min class: Hasin Visit + Group Work
 * Discuss Karkhana lesson plans and how they may influence your prototype idea
@@ -143,7 +143,7 @@ WEEKS 12 - 14: Final Production Cycle & Analysis
 * Small group discussion on readings
 * Interactions and question with Karkhana on how they are addressing the challenges
 * Post Class
-	* Revise prototype idea based on group discussions
+	* REVISE prototype idea based on group discussions
 
 #### 150 min class: Work Session
 * Build prototype based on revised idea
