@@ -150,6 +150,7 @@ WEEKS 12 - 15: Final Production Cycle & Analysis
 * Ethnographic Interview Workshop Part II (Carol Brandt)
 * Post Class
 	* CONNECT with Maker Mentor to continue discussing strategies to implement and test prototype idea in Kathamndu
+	* READ IDEO "Design Research Ethics"
 
 ### SPRING BREAK WEEK
 * Projected trip dates: Tuesday March 13th - Monday March 19th
