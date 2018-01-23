@@ -3,7 +3,7 @@ Making Education Schedule
 
 WEEKS 01 - 03: Learning Theory & Instructional Design  
 WEEKS 04 - 07: Kathmandu, Karkhana Org, & Ethnography  
---- SPRING BREAK TRIP ---
+--- SPRING BREAK TRIP ---  
 WEEKS 08 - 11: Post-trip Reflection & Production Cycle  
 WEEKS 12 - 14: Final Production Cycle & Analysis
 
@@ -56,12 +56,12 @@ WEEKS 12 - 14: Final Production Cycle & Analysis
 ### WEEK 3 - Feb 5 & 7
 
 #### 75 min class: Introducing the Design Challenge
-	* Discuss Readings and "TMPI" exercise
-	* Examine the Project Briefs
-	* Post Class
-		* READ Collins, A. (2006). Cognitive apprenticeship. In R.Keith Sawyer (Ed.), The Cambridge handbook of the learning sciences  (47-58). New York, NY: Cambridge University Press.
-		* READ Introduction to Karkhana Research Team’s annotated bibliography on Cognitive Apprenticeship
-		* PREPARE 2 questions for the Karkhana team. Please add your questions to the Design Brief Questions Document in the Google Drive before the start of Wednesday's class.
+* Discuss Readings and "TMPI" exercise
+* Examine the Project Briefs
+* Post Class
+	* READ Collins, A. (2006). Cognitive apprenticeship. In R.Keith Sawyer (Ed.), The Cambridge handbook of the learning sciences  (47-58). New York, NY: Cambridge University Press.
+	* READ Introduction to Karkhana Research Team’s annotated bibliography on Cognitive Apprenticeship
+	* PREPARE 2 questions for the Karkhana team. Please add your questions to the Design Brief Questions Document in the Google Drive before the start of Wednesday's class.
 
 #### 150 min class: Connect with Karkhana
 * Skype call with Karkhana to discuss the Project Briefs
@@ -137,7 +137,7 @@ WEEKS 12 - 14: Final Production Cycle & Analysis
 	* WRITE 1000 - 1200 word Research Paper incorporating theoretical material & interviews. The paper should be uploaded to the Google Drive by Sunday March 11 9PM
 	* MEET with Hasin as a group
 
-### WEEK 7 - March 5 & 7
+### WEEK 7 - Mar 5 & 7
 
 #### 75 min class: Challenges of a ‘Progressive’ Education in the Nepali context (Hasin Viist 2)
 * Small group discussion on readings
@@ -151,9 +151,8 @@ WEEKS 12 - 14: Final Production Cycle & Analysis
 * Post Class
 	* CONNECT with Maker Mentor to continue discussing strategies to implement and test prototype idea in Kathamndu
 
-### ---- SPRING BREAK WEEK ----
-
-#### Projected trip dates: Tuesday March 13th - Monday March 19th
+### SPRING BREAK WEEK
+* Projected trip dates: Tuesday March 13th - Monday March 19th
 
 ### WEEK 8 - Mar 21st
 
