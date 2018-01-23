@@ -7,7 +7,7 @@ Course Number: IM-UH 2120 Regional Seminar
 Elective Cluster: Media & Design Thinking  
 
 Semester: Spring 2018  
-Prerequisites:  Introduction to Interative Media (IM-UH 1001), Communications Lab (IM-UH 1002), or Instructor Approval  
+Prerequisites:  Intro to IM (IM-UH 1001), Comm Lab (IM-UH 1002), or Instructor Approval  
 Credit Hours: 4 units  
 Time: Mon 11:50 - 13:05 & Wed 11:50pm - 2:40pm  
 Room: Arts Center IM Lab (Rm.029)   
@@ -52,14 +52,14 @@ Student groups will also be paired with a Maker Mentor who works at Karkhana. Th
 	* Blog Posts
 	* Project Exercises
 	* Documentation  
-* Papers - 30%  
+* Papers - 25%  
 	* Initial Research Paper with Interview (10%)
-	* Post-Trip Reflection Paper (10%)
+	* Post-Trip Reflection Paper (5%)
 	* Final Analysis Paper (10%)
-* Projects - 30%
+* Projects - 35%
 	* Prototype Spring Break Project (10%)
 	* Post-trip Project Iteration (10%)
-	* Final project (10%)
+	* Final project (15%)
 * Peer Review - 5%
 
 ### Readings
