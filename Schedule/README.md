@@ -26,8 +26,6 @@ WEEKS 12 - 15: Final Production Cycle & Analysis
 	* [Karkhana Facebook](https://www.facebook.com/karkhana.asia)
 * Discuss Readings & Video
 * Activity: “How Is Learning Like?" (Memorable Experience + Object)
-* Activity:  "Zoom In"
-* [Project Zero](http://www.pz.harvard.edu/) - [Zoom In](https://msd23.learning.powerschool.com/smurphy/projectzero/cms_page/view/5875472)
 * Post Class  
 	* READ Ritchhart,R., Church, M., & Morrison, K. (2011). Unpacking thinking. In  Making thinking visible (3-8, 11-14). San Francisco, CA: Jossey-Bass 
 	* READ Types of Thinking  
@@ -39,7 +37,9 @@ WEEKS 12 - 15: Final Production Cycle & Analysis
 
 #### 75 min class: Projects and Power
 * Discuss Readings & Homework  
-* Activity: Project Driven Learning
+* Activity:  "Zoom In"
+* [Project Zero](http://www.pz.harvard.edu/) - [Zoom In](https://msd23.learning.powerschool.com/smurphy/projectzero/cms_page/view/5875472)
+* Activity (Time Permitting): Project Driven Learning
 * Post Class
 	* READ Stager, G. & Martinez, S.(2013). What makes a good project? In Invent to learn: Making, tinkering, and engineering in the classroom ( 58-67 ). Torrance, CA: Constructing Modern Knowledge Press.
 	* WATCH Massimo Banzi "How Arduino Is Open-Sourcing Imagination"
