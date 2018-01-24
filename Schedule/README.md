@@ -29,8 +29,8 @@ WEEKS 12 - 15: Final Production Cycle & Analysis
 * Activity:  "Zoom In"
 * [Project Zero](http://www.pz.harvard.edu/) - [Zoom In](https://msd23.learning.powerschool.com/smurphy/projectzero/cms_page/view/5875472)
 * Post Class  
-	* EXPLORE [Project Zero](http://www.pz.harvard.edu/)
-	* READ Ritchhart,R., Church, M., & Morrison, K. (2011). Unpacking thinking. In  Making thinking visible (3-8, 11-14). San Francisco, CA: Jossey-Bass  
+	* READ Ritchhart,R., Church, M., & Morrison, K. (2011). Unpacking thinking. In  Making thinking visible (3-8, 11-14). San Francisco, CA: Jossey-Bass 
+	* READ Types of Thinking  
 	* READ Smith, F. (1988). Ch.4 Learning to be a critical thinker. In Joining the Literacy Club. Portsmouth, NH: Heinemann  
 	* READ Smith, F. (1988). Ch.5 Collaboration in the classroom. In Joining the Literacy Club. Portsmouth, NH: Heinemann  
 	* WRITE 1 page (250-400 words) reflection on the first week of class, the readings, and the class discussion. Describe at least 1-2 goals you hope to realize in this class by the end of semester. Your post should be submitted to the Google Drive folder by Sunday 9PM
