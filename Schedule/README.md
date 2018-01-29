@@ -41,7 +41,7 @@ WEEKS 12 - 15: Final Production Cycle & Analysis
 * [Project Zero](http://www.pz.harvard.edu/) - [Zoom In](https://msd23.learning.powerschool.com/smurphy/projectzero/cms_page/view/5875472)
 * Post Class
 	* READ Stager, G. & Martinez, S.(2013). What makes a good project? In Invent to learn: Making, tinkering, and engineering in the classroom ( 58-67 ). Torrance, CA: Constructing Modern Knowledge Press.
-	* WATCH Massimo Banzi "How Arduino Is Open-Sourcing Imagination"
+	* WATCH Massimo Banzi ["How Arduino Is Open-Sourcing Imagination"](https://www.youtube.com/watch?v=UoBUXOOdLXY)
 
 #### 150 min class: Iteration  
 * Discussion on Readings & Video
