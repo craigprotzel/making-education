@@ -46,7 +46,7 @@ WEEKS 12 - 15: Final Production Cycle & Analysis
 #### 150 min class: Iteration  
 * Discussion on Readings & Video
 * Activity:  "TMPI (Think Make Play Improve) with Balloon Powered Cars”  
-* [Makey Makey](https://www.youtube.com/watch?v=rfQqh7iCcOU) -  & [Arduino](https://www.youtube.com/watch?v=CqrQmQqpHXc)
+* [Makey Makey](https://www.youtube.com/watch?v=rfQqh7iCcOU) & [Arduino](https://www.youtube.com/watch?v=CqrQmQqpHXc)
 * Post Class  
 	* READ Berger, R. (2003). Multiple Drafts. In  An Ethic of Excellence: Building a culture of craftsmanship with students  (87-92). Portsmouth, NH: Heinemann.
 	* READ Khun, S. (2001). Learning from the architecture studio: implications for project-based pedagogy. International Journal of Engineering Education, 17.4-5, 349-352.
@@ -56,7 +56,8 @@ WEEKS 12 - 15: Final Production Cycle & Analysis
 ### WEEK 3 - Feb 5 & 7
 
 #### 75 min class: Introducing the Design Challenge
-* Discuss Readings and "TMPI" lesson
+* Discuss Readings
+* Share "TMPI" Lesson
 * Introduce the Project Briefs
 * Post Class
 	* REVIEW Project Briefs
