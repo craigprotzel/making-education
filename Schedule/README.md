@@ -39,7 +39,6 @@ WEEKS 12 - 15: Final Production Cycle & Analysis
 * Discuss Readings & Homework  
 * Activity:  "Zoom In"
 * [Project Zero](http://www.pz.harvard.edu/) - [Zoom In](https://msd23.learning.powerschool.com/smurphy/projectzero/cms_page/view/5875472)
-* Activity (Time Permitting): Project Driven Learning
 * Post Class
 	* READ Stager, G. & Martinez, S.(2013). What makes a good project? In Invent to learn: Making, tinkering, and engineering in the classroom ( 58-67 ). Torrance, CA: Constructing Modern Knowledge Press.
 	* WATCH Massimo Banzi "How Arduino Is Open-Sourcing Imagination"
@@ -47,21 +46,23 @@ WEEKS 12 - 15: Final Production Cycle & Analysis
 #### 150 min class: Iteration  
 * Discussion on Readings & Video
 * Activity:  "TMPI (Think Make Play Improve) with Balloon Powered Cars”  
+* [Makey Makey](https://www.youtube.com/watch?v=rfQqh7iCcOU) -  & [Arduino](https://www.youtube.com/watch?v=CqrQmQqpHXc)
 * Post Class  
 	* READ Berger, R. (2003). Multiple Drafts. In  An Ethic of Excellence: Building a culture of craftsmanship with students  (87-92). Portsmouth, NH: Heinemann.
 	* READ Khun, S. (2001). Learning from the architecture studio: implications for project-based pedagogy. International Journal of Engineering Education, 17.4-5, 349-352.
 	* READ Blikstein, P. (2008). Travels in Troy with Freire: Technology as an Agent for Emancipation. In Noguera, P. and Torres, C. A. (Eds.), Paulo Freire: the possible dream. Rotterdam, Netherlands: Sense.
-	* CREATE a 1 hour "TMPI" exercise that leverages the materials in your class kit. You may add items to the kit but the total value of additional materials cannot exceed $20 USD. Write a description of the exercise that includes the steps involved and any necessary photo documentation. This should be no more than one page. Upload to the Google Drive folder by Sunday 9PM
+	* CREATE a "TMPI" lesson that leverages either the Makey Makey or the Arduino along with your class kit. Attempt to create a "story" around the activity along with at least 2 desired learning outcomes. The entrie lesson should take approx 1 hour. You may add items to the kit but the total value of additional materials should not exceed $20 USD. Write a description of the activity that includes the steps involved. Please provide any necessary photo documentation. The description, steps, & photos should be no more that 2 pages long (front-back). You may work alone or with a partner. Please upload your materials to the Google Drive folder by Sunday Feb. 4th at 9PM.
 
 ### WEEK 3 - Feb 5 & 7
 
 #### 75 min class: Introducing the Design Challenge
-* Discuss Readings and "TMPI" exercise
-* Examine the Project Briefs
+* Discuss Readings and "TMPI" lesson
+* Introduce the Project Briefs
 * Post Class
-	* READ Collins, A. (2006). Cognitive apprenticeship. In R.Keith Sawyer (Ed.), The Cambridge handbook of the learning sciences  (47-58). New York, NY: Cambridge University Press.
-	* READ Introduction to Karkhana Research Team’s annotated bibliography on Cognitive Apprenticeship
+	* REVIEW Project Briefs
 	* PREPARE 2 questions for the Karkhana team. Please add your questions to the Design Brief Questions Document in the Google Drive before the start of Wednesday's class.
+	* READ Introduction to Karkhana Research Team’s annotated bibliography on Cognitive Apprenticeship
+	* READ Collins, A. (2006). Cognitive apprenticeship. In R.Keith Sawyer (Ed.), The Cambridge handbook of the learning sciences  (47-58). New York, NY: Cambridge University Press.
 
 #### 150 min class: Connect with Karkhana
 * Skype call with Karkhana to discuss the Project Briefs
@@ -85,15 +86,15 @@ WEEKS 12 - 15: Final Production Cycle & Analysis
 ### WEEK 4 - Feb 12 & 14
 
 #### 75 min class: Show and Tell
-* Share and analyze projects
-* Discuss initial groups
+* Ethnographic Interview Workshop Part I with Carol Brandt 
 * Post Class
 	* READ Papert Mindstorms Ch. 8
 	* THINK of project ideas 
 
 #### 150 min class: Hand-storming
+* Share and analyze projects
+* Discuss initial groups
 * Activity: Brainstorm ideas in small groups. Use [3-2-1](http://dipeshwor.com.np/logo-design-using-3-2-1/) to pick project to do and create rapid prototype. Share ideas, project, & prototype with the class.  
-* Ethnographic Interview Workshop Part I with Carol Brandt
 * Post Class
 	* BEGIN working on project
 	* REVIEW Nepal Materials
@@ -123,7 +124,7 @@ WEEKS 12 - 15: Final Production Cycle & Analysis
 ### WEEK 6 - Feb 26 & 28
 
 #### 75 min class: Show and Tell  
-* Peer critique of prototypes
+* Ethnographic Interview Workshop Part II (Carol Brandt)
 * Brainstorm ideas for next step
 * Post Class
 	* REVIEW Karkhana lesson plans
@@ -147,7 +148,6 @@ WEEKS 12 - 15: Final Production Cycle & Analysis
 
 #### 150 min class: Work Session
 * Build prototype based on revised idea
-* Ethnographic Interview Workshop Part II (Carol Brandt)
 * Post Class
 	* CONNECT with Maker Mentor to continue discussing strategies to implement and test prototype idea in Kathamndu
 	* READ IDEO "Design Research Ethics"
