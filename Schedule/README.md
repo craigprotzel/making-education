@@ -132,7 +132,7 @@ WEEKS 12 - 15: Final Production Cycle & Analysis
 	* REVIEW Karkhana lesson plans
 	* MEET with Hasin as a group
 
-#### 150 min class: Challenges of a ‘Progressive’ Education in the Nepali context (Hasin Viist 2)
+#### 150 min class: Challenges of a ‘Progressive’ Education in Nepal (Hasin Viist 2)
 * Discuss Karkhana lesson plans and how they may influence your prototype idea
 * Work on prototype idea in groups
 * Post Class
