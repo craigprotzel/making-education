@@ -151,6 +151,7 @@ WEEKS 12 - 15: Final Production Cycle & Analysis
 * Build prototype based on revised idea
 * Post Class
 	* CONNECT with Maker Mentor to continue discussing strategies to implement and test prototype idea in Kathamndu
+	* FINISH Research Paper due by Sunday March 11 9PM
 	* PREPARE for Trip
 
 ### SPRING BREAK WEEK
@@ -164,7 +165,7 @@ WEEKS 12 - 15: Final Production Cycle & Analysis
 	* Attempt to put the trip in context and how it relates to the project brief.
 * Outline initial 3-Week Production Cycle Plan
 * Post Class
-	* WRITE 1000 - 1200 word reflection on Nepal trip and how it changed your understanding of the project brief
+	* WRITE 800-1000 word reflection on Nepal trip and how it changed your understanding of the project brief due Sunday March 25 9PM
 	* GENERATE new ideas + avenues of progress for your prototype
 	* SET 3-Week Production Cycle
 
