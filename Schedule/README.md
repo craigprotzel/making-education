@@ -124,34 +124,33 @@ WEEKS 12 - 15: Final Production Cycle & Analysis
 
 ### WEEK 6 - Feb 26 & 28
 
-#### 75 min class: Show and Tell  
-* Ethnographic Interview Workshop Part II (Carol Brandt)
-* Brainstorm ideas for next step
+#### 75 min class: Hasin Visit 1 - Discussion & Idea Sharing  
+* Discussion with Hasin on Karkhana & how they are addressing the challenges
+* Share Prototype Ideas
 * Post Class
 	* REVIEW Karkhana lesson plans
+	* MEET with Hasin as a group
 
-#### 150 min class: Hasin Visit + Group Work
+#### 150 min class: Hasin Visit 2 - Discussion & Group Work
 * Discuss Karkhana lesson plans and how they may influence your prototype idea
 * Work on prototype idea in groups
 * Post Class
 	* WORK on prototype idea & document work
 	* CONNECT with Maker Mentor to share prototype and begin discussing ways to test the idea
 	* WRITE 1000 - 1200 word Research Paper incorporating theoretical material & interviews. The paper should be uploaded to the Google Drive by Sunday March 11 9PM
-	* MEET with Hasin as a group
-
+	
 ### WEEK 7 - Mar 5 & 7
 
 #### 75 min class: Challenges of a ‘Progressive’ Education in the Nepali context (Hasin Viist 2)
-* Small group discussion on readings
-* Interactions and question with Karkhana on how they are addressing the challenges
+* Ethnographic Interview Workshop Part II (Carol Brandt)
 * Post Class
-	* REVISE prototype idea based on group discussions
+	* READ IDEO "Design Research Ethics"
 
 #### 150 min class: Work Session
 * Build prototype based on revised idea
 * Post Class
 	* CONNECT with Maker Mentor to continue discussing strategies to implement and test prototype idea in Kathamndu
-	* READ IDEO "Design Research Ethics"
+	* PREPARE for Trip
 
 ### SPRING BREAK WEEK
 * Projected trip dates: Tuesday March 13th - Monday March 19th
