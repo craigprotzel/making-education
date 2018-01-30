@@ -126,7 +126,7 @@ WEEKS 12 - 15: Final Production Cycle & Analysis
 
 #### 75 min class: Hasin Visit 1 - Discussion & Idea Sharing  
 * Discussion with Hasin on Karkhana & how they are addressing the challenges
-* Share Prototype Ideas
+* Share prototype idea
 * Post Class
 	* REVIEW Karkhana lesson plans
 	* MEET with Hasin as a group
