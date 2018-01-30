@@ -9,7 +9,7 @@ WEEKS 12 - 15: Final Production Cycle & Analysis
 
 ### WEEK 1 - Jan 22 & 24
 
-#### 75 min class: Pedagogy  
+#### 75 min class: Introduction  
 * General Course Introduction
 * Story behind the Class
 * Student Introductions
@@ -19,7 +19,7 @@ WEEKS 12 - 15: Final Production Cycle & Analysis
 	* WATCH [“Changing Educational Paradigms”](https://www.ted.com/talks/ken_robinson_changing_education_paradigms)
 	* THINK about a memorable educational experience pre-NYUAD. It could have occurred within a school environment or outside of school. Be prepared to talk about why it was significant to you.
 
-#### 150 min class: Thinking about Thinking
+#### 150 min class: Education & Pedagogy
 * Lab Introduction with Ume  
 * Skype with Hasin
 	* [Karkhana Website](http://www.karkhana.asia/)
@@ -35,7 +35,7 @@ WEEKS 12 - 15: Final Production Cycle & Analysis
 
 ### WEEK 2 - Jan 29 & 31
 
-#### 75 min class: Projects and Power
+#### 75 min class: Thinking about Thinking
 * Discuss Readings & Homework  
 * Activity:  "Zoom In"
 * [Project Zero](http://www.pz.harvard.edu/) - [Zoom In](https://msd23.learning.powerschool.com/smurphy/projectzero/cms_page/view/5875472)
@@ -43,7 +43,7 @@ WEEKS 12 - 15: Final Production Cycle & Analysis
 	* READ Stager, G. & Martinez, S.(2013). What makes a good project? In Invent to learn: Making, tinkering, and engineering in the classroom ( 58-67 ). Torrance, CA: Constructing Modern Knowledge Press.
 	* WATCH Massimo Banzi ["How Arduino Is Open-Sourcing Imagination"](https://www.youtube.com/watch?v=UoBUXOOdLXY)
 
-#### 150 min class: Iteration  
+#### 150 min class: Projects & Iteration  
 * Discussion on Readings & Video
 * Activity:  "TMPI (Think Make Play Improve) with Balloon Powered Cars”  
 * [Makey Makey](https://www.youtube.com/watch?v=rfQqh7iCcOU) & [Arduino](https://www.youtube.com/watch?v=CqrQmQqpHXc)
@@ -71,10 +71,11 @@ WEEKS 12 - 15: Final Production Cycle & Analysis
 	* Why were these readings and ideas chosen as the set up?
 	* What are the critical elements here?
 	* What are your initial interests?
+* Initial Barinstorming
 * Post Class
 	* WATCH Neil Postman Lecture [“The Surrender of Culture to Technology”](https://www.youtube.com/watch?v=hlrv7DIHllE) (75 mins)
 	* READ Seymour Papert's “Mindstorms” Introduction + Chapter 1
-	* RESEARCH "Self-Directed Learning" project of interest. The project should be somehow relatable to at least one of the Design Briefs.
+	* RESEARCH a "Self-Directed Learning" project of interest. The project should be somehow relatable to at least one of the Design Briefs and/or an idea of interest.
 	* CREATE a "critical" presentation of the project. Your presentation should consist of 6 slides:
 		* Slide 1 - General Project Introduction  
 		* Slide 2 - Description of the Activity  
@@ -86,13 +87,13 @@ WEEKS 12 - 15: Final Production Cycle & Analysis
 
 ### WEEK 4 - Feb 12 & 14
 
-#### 75 min class: Show and Tell
+#### 75 min class: Ethnography Part I
 * Ethnographic Interview Workshop Part I with Carol Brandt 
 * Post Class
 	* READ Papert Mindstorms Ch. 8
 	* THINK of project ideas 
 
-#### 150 min class: Hand-storming
+#### 150 min class: Hand-Storming
 * Share and analyze projects
 * Discuss initial groups
 * Activity: Brainstorm ideas in small groups. Use [3-2-1](http://dipeshwor.com.np/logo-design-using-3-2-1/) to pick project to do and create rapid prototype. Share ideas, project, & prototype with the class.  
@@ -107,7 +108,7 @@ WEEKS 12 - 15: Final Production Cycle & Analysis
 
 ### WEEK 5 - Feb 19 & 21
 
-#### 75 min class: Show and Tell
+#### 75 min class: Show & Tell
 * Discuss Homework
 * Activity: Share findings from conversation and project ideas in small groups
 * Post Class  
@@ -124,14 +125,14 @@ WEEKS 12 - 15: Final Production Cycle & Analysis
 
 ### WEEK 6 - Feb 26 & 28
 
-#### 75 min class: Hasin Visit 1 - Discussion & Idea Sharing  
+#### 75 min class: Discussion & Idea Sharing  (Hasin Visit 1)
 * Discussion with Hasin on Karkhana & how they are addressing the challenges
 * Share prototype idea
 * Post Class
 	* REVIEW Karkhana lesson plans
 	* MEET with Hasin as a group
 
-#### 150 min class: Hasin Visit 2 - Discussion & Group Work
+#### 150 min class: Challenges of a ‘Progressive’ Education in the Nepali context (Hasin Viist 2)
 * Discuss Karkhana lesson plans and how they may influence your prototype idea
 * Work on prototype idea in groups
 * Post Class
@@ -141,7 +142,7 @@ WEEKS 12 - 15: Final Production Cycle & Analysis
 	
 ### WEEK 7 - Mar 5 & 7
 
-#### 75 min class: Challenges of a ‘Progressive’ Education in the Nepali context (Hasin Viist 2)
+#### 75 min class: Ethnography Part II
 * Ethnographic Interview Workshop Part II (Carol Brandt)
 * Post Class
 	* READ IDEO "Design Research Ethics"
