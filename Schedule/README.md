@@ -103,7 +103,7 @@ WEEKS 12 - 15: Final Production Cycle & Analysis
 		* “Loot”
 		* "In Search of the Riyals"
 		* Thamel Dark Star - Ravi
-	* SCHEDULE interview with NYUAD Nepali Community community member 
+	* SCHEDULE interview with NYUAD Nepali community member 
 	* UPLOAD notes from conversation to Google Drive.
 
 ### WEEK 5 - Feb 19 & 21
@@ -116,10 +116,10 @@ WEEKS 12 - 15: Final Production Cycle & Analysis
 	 
 
 #### 150 min class: Project Studio Time
+* Decide on initial groups
 * Work on Prototype 1  
 * Post Class  
 	* READ material on Education System in Kathmandu and Nepal (TBD)
-	* CONDUCT interview (as a group) with NYUAD Nepali community member
 	* UPLOAD notes from conversation to Google Drive
 	* WORK with group on a prototype. Be prepared to share prototype in class.
 
