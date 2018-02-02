@@ -71,7 +71,7 @@ WEEKS 12 - 15: Final Production Cycle & Analysis
 	* Why were these readings and ideas chosen as the set up?
 	* What are the critical elements here?
 	* What are your initial interests?
-* Initial Barinstorming
+* Initial Brainstorming
 * Post Class
 	* WATCH Neil Postman Lecture [“The Surrender of Culture to Technology”](https://www.youtube.com/watch?v=hlrv7DIHllE) (75 mins)
 	* READ Seymour Papert's “Mindstorms” Introduction + Chapter 1
@@ -103,7 +103,7 @@ WEEKS 12 - 15: Final Production Cycle & Analysis
 		* “Loot”
 		* "In Search of the Riyals"
 		* Thamel Dark Star - Ravi
-	* CONNECT with Maker Mentor (as a group) for an interview Skype Call
+	* SCHEDULE interview with NYUAD Nepali Community community member 
 	* UPLOAD notes from conversation to Google Drive.
 
 ### WEEK 5 - Feb 19 & 21
@@ -113,7 +113,7 @@ WEEKS 12 - 15: Final Production Cycle & Analysis
 * Activity: Share findings from conversation and project ideas in small groups
 * Post Class  
 	* READ material on Kathmandu and Nepal (TBD)
-	* SCHEDULE interview with NYUAD Nepali Community community member  
+	 
 
 #### 150 min class: Project Studio Time
 * Work on Prototype 1  
@@ -121,7 +121,7 @@ WEEKS 12 - 15: Final Production Cycle & Analysis
 	* READ material on Education System in Kathmandu and Nepal (TBD)
 	* CONDUCT interview (as a group) with NYUAD Nepali community member
 	* UPLOAD notes from conversation to Google Drive
-	* WORK with group on a prototype. Be prepared to share prototype in class. 
+	* WORK with group on a prototype. Be prepared to share prototype in class.
 
 ### WEEK 6 - Feb 26 & 28
 
@@ -131,13 +131,13 @@ WEEKS 12 - 15: Final Production Cycle & Analysis
 * Post Class
 	* REVIEW Karkhana lesson plans
 	* MEET with Hasin as a group
+	* CONNECT with Maker Mentor (as a group) for an interview Skype Call 
 
 #### 150 min class: Challenges of a ‘Progressive’ Education in Nepal (Hasin Viist 2)
 * Discuss Karkhana lesson plans and how they may influence your prototype idea
 * Work on prototype idea in groups
 * Post Class
 	* WORK on prototype idea & document work
-	* CONNECT with Maker Mentor to share prototype and begin discussing ways to test the idea
 	* WRITE 1000 - 1200 word Research Paper incorporating theoretical material & interviews. The paper should be uploaded to the Google Drive by Sunday March 11 9PM
 	
 ### WEEK 7 - Mar 5 & 7
@@ -153,6 +153,7 @@ WEEKS 12 - 15: Final Production Cycle & Analysis
 	* CONNECT with Maker Mentor to continue discussing strategies to implement and test prototype idea in Kathamndu
 	* FINISH Research Paper due by Sunday March 11 9PM
 	* PREPARE for Trip
+	* CONNECT with Maker Mentor to share prototype and begin discussing ways to test the idea	
 
 ### SPRING BREAK WEEK
 * Projected trip dates: Tuesday March 13th - Monday March 19th
