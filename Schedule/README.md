@@ -103,7 +103,7 @@ WEEKS 12 - 15: Final Production Cycle & Analysis
 		* WATCH "Kathmandu, My Home" video (dur 3:02)
 		* WATCH "Hyolmo" video (dur 12:33)
 		* READ Prologue of "Thamel Dark Star" by Ravi Thapa
-	* SCHEDULE an interview with an NYUAD Nepali community member to discuss the readings and videos 
+	* SCHEDULE a conversation with an NYUAD Nepali community member to discuss the readings and videos 
 	* UPLOAD notes from your conversation to Google Drive.
 
 ### WEEK 5 - Feb 19 & 21
