@@ -91,6 +91,7 @@ WEEKS 12 - 15: Final Production Cycle & Analysis
 * Ethnographic Interview Workshop Part I with Carol Brandt 
 * Post Class
 	* READ Papert Mindstorms Ch. 8
+	* READ Krabbe, M.(1983). Self-Directed Learning of the Basic Skills (372-373)
 	* THINK of project ideas 
 
 #### 150 min class: Hand-Storming
