@@ -112,7 +112,7 @@ WEEKS 12 - 15: Final Production Cycle & Analysis
 * Discuss Homework
 * Activity: Share findings from conversation and project ideas in small groups
 * Post Class  
-	* * READ Prologue of "Thamel Dark Star" by Ravi Thapa	
+	* READ Prologue of "Thamel Dark Star" by Ravi Thapa	
 
 #### 150 min class: Project Studio Time
 * Decide on initial groups
