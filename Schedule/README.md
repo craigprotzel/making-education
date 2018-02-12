@@ -95,16 +95,16 @@ WEEKS 12 - 15: Final Production Cycle & Analysis
 	* THINK of project ideas 
 
 #### 150 min class: Hand-Storming
-* Share and analyze projects
+* Share and analyze project slides
 * Discuss initial groups
 * Activity: Brainstorm ideas in small groups. Use [3-2-1](http://dipeshwor.com.np/logo-design-using-3-2-1/) to pick project to do and create rapid prototype. Share ideas, project, & prototype with the class.  
 * Post Class
 	* READ [The Record - Why Did the British Not Colonize Nepal](https://www.recordnepal.com/wire/features/why-did-the-british-not-colonize-nepal/)
 	* WATCH "Kathmandu, My Home" video (dur 3:02)
 	* WATCH "Hyolmo" video (dur 12:33)
-	* READ Prologue of "Thamel Dark Star" by Ravi Thapa
-	* SCHEDULE a conversation with an NYUAD Nepali community member to discuss the readings and videos 
-	* UPLOAD notes from your conversation to Google Drive.
+	* VISIT Markazi Exhibit in A6 and Arts Center Gallery Space
+	* SCHEDULE a conversation with an NYUAD Nepali community member
+	* UPLOAD notes from your conversation to Google Drive
 
 ### WEEK 5 - Feb 19 & 21
 
@@ -112,16 +112,15 @@ WEEKS 12 - 15: Final Production Cycle & Analysis
 * Discuss Homework
 * Activity: Share findings from conversation and project ideas in small groups
 * Post Class  
-	* READ material on Kathmandu and Nepal (TBD)
-	 
+	* * READ Prologue of "Thamel Dark Star" by Ravi Thapa	
 
 #### 150 min class: Project Studio Time
 * Decide on initial groups
 * Work on Prototype 1  
+* Visit with Sandi Hilal and ["Permanent Temporariness - The Living Room"](http://www.nyuad-artgallery.org/en_US/exhibitions/hilal-petti/) exhibit 
 * Post Class  
 	* READ material on Education System in Kathmandu and Nepal (TBD)
-	* UPLOAD notes from conversation to Google Drive
-	* WORK with group on a prototype. Be prepared to share prototype in class.
+	* WORK with group on an initial prototype idea. Be prepared to share your work in class.
 
 ### WEEK 6 - Feb 26 & 28
 
@@ -139,6 +138,8 @@ WEEKS 12 - 15: Final Production Cycle & Analysis
 * Post Class
 	* WORK on prototype idea & document work
 	* WRITE 1000 - 1200 word Research Paper incorporating theoretical material & interviews. The paper should be uploaded to the Google Drive by Sunday March 11 9PM
+
+#### Saturday Mar 3 WeSTEM Conference Workshops
 	
 ### WEEK 7 - Mar 5 & 7
 
