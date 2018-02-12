@@ -99,10 +99,10 @@ WEEKS 12 - 15: Final Production Cycle & Analysis
 * Discuss initial groups
 * Activity: Brainstorm ideas in small groups. Use [3-2-1](http://dipeshwor.com.np/logo-design-using-3-2-1/) to pick project to do and create rapid prototype. Share ideas, project, & prototype with the class.  
 * Post Class
-		* READ [The Record - Why Did the British Not Colonize Nepal](https://www.recordnepal.com/wire/features/why-did-the-british-not-colonize-nepal/)
-		* WATCH "Kathmandu, My Home" video (dur 3:02)
-		* WATCH "Hyolmo" video (dur 12:33)
-		* READ Prologue of "Thamel Dark Star" by Ravi Thapa
+	* READ [The Record - Why Did the British Not Colonize Nepal](https://www.recordnepal.com/wire/features/why-did-the-british-not-colonize-nepal/)
+	* WATCH "Kathmandu, My Home" video (dur 3:02)
+	* WATCH "Hyolmo" video (dur 12:33)
+	* READ Prologue of "Thamel Dark Star" by Ravi Thapa
 	* SCHEDULE a conversation with an NYUAD Nepali community member to discuss the readings and videos 
 	* UPLOAD notes from your conversation to Google Drive.
 
