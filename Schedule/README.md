@@ -137,9 +137,10 @@ WEEKS 12 - 15: Final Production Cycle & Analysis
 * Work on prototype idea in groups
 * Post Class
 	* WORK on prototype idea & document work
+	* PREPARE for WeSTEM Workshop
 	* WRITE 1000 - 1200 word Research Paper incorporating theoretical material & interviews. The paper should be uploaded to the Google Drive by Sunday March 11 9PM
 
-#### Saturday Mar 3 WeSTEM Conference Workshops
+### ***Saturday March 3 WeSTEM Conference Workshops***
 	
 ### WEEK 7 - Mar 5 & 7
 
