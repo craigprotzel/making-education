@@ -100,8 +100,8 @@ WEEKS 12 - 15: Final Production Cycle & Analysis
 * Activity: Brainstorm ideas in small groups. Use [3-2-1](http://dipeshwor.com.np/logo-design-using-3-2-1/) to pick project to do and create rapid prototype. Share ideas, project, & prototype with the class.  
 * Post Class
 	* READ [The Record - Why Did the British Not Colonize Nepal?](https://www.recordnepal.com/wire/features/why-did-the-british-not-colonize-nepal/)
-	* WATCH "Kathmandu, My Home" video (dur 3:02) in "Videos" folder on Google Drive
-	* WATCH "Hyolmo" video (dur 12:33) in "Videos" folder on Google Drive
+	* WATCH "Kathmandu, My Home" video (dur 3:02)
+	* WATCH "Hyolmo" video (dur 12:33)
 	* VISIT Markazi Exhibit in A6 and Arts Center Gallery Space
 	* SCHEDULE a conversation with an NYUAD Nepali community member
 	* UPLOAD notes from your conversation to Google Drive
