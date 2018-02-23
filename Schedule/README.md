@@ -119,8 +119,8 @@ WEEKS 12 - 15: Final Production Cycle & Analysis
 * Work on Prototype 1  
 * Visit with Sandi Hilal and ["Permanent Temporariness - The Living Room"](http://www.nyuad-artgallery.org/en_US/exhibitions/hilal-petti/) exhibit 
 * Post Class  
-	* READ material on Education System in Kathmandu and Nepal (TBD)
-	* WORK with group on an initial prototype idea. Be prepared to share your work in class.
+	* WORK with group on 2-3 initial prototype ideas
+	* UPLOAD the 2-3 prototype ideas on a single page doc by Sunday 9pm
 
 ### WEEK 6 - Feb 26 & 28
 
