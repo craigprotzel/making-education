@@ -128,9 +128,7 @@ WEEKS 12 - 15: Final Production Cycle & Analysis
 * Discussion with Hasin on Karkhana & how they are addressing the challenges
 * Share prototype idea
 * Post Class
-	* REVIEW Karkhana lesson plans
 	* MEET with Hasin as a group
-	* CONNECT with Maker Mentor (as a group) for an interview Skype Call 
 
 #### 150 min class: Challenges of a ‘Progressive’ Education in Nepal (Hasin Viist 2)
 * Discuss Karkhana lesson plans and how they may influence your prototype idea
