@@ -124,15 +124,20 @@ WEEKS 12 - 15: Final Production Cycle & Analysis
 
 ### WEEK 6 - Feb 26 & 28
 
-#### 75 min class: Discussion & Idea Sharing  (Hasin Visit 1)
-* Discussion with Hasin on Karkhana & how they are addressing the challenges
-* Share prototype idea
+#### 75 min class: Education in Nepal  (Hasin Visit 1)
+* Introduction
+* Exercise - Questioning and Higher Order Thinking in Nepali Classroom
+* Schools and Classroom in Kathmandu
+* Open Q & A
+* WeSTEM Plans 
 * Post Class
 	* MEET with Hasin as a group
 
 #### 150 min class: Challenges of a ‘Progressive’ Education in Nepal (Hasin Viist 2)
-* Discuss Karkhana lesson plans and how they may influence your prototype idea
-* Work on prototype idea in groups
+* Mock Bee Creative Lesson - "Vehicle Communication" from "Fun with Electronics" Cluster
+* Reflection on the BC Experience 
+* Impact of Project Based Learning on Students through stories of Karkhana students
+* Sharing Project Ideas and Feedback on the Idea
 * Post Class
 	* WORK on prototype idea & document work
 	* PREPARE for WeSTEM Workshop
