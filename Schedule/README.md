@@ -153,15 +153,16 @@ WEEKS 12 - 15: Final Production Cycle & Analysis
 	* READ IDEO "Design Research Ethics"
 
 #### 150 min class: Work Session
-* Build prototype based on revised idea
+* Trip Orientation with Global Edu
+* Discussion
+* Work on prototypes
 * Post Class
 	* CONNECT with Maker Mentor to continue discussing strategies to implement and test prototype idea in Kathamndu
 	* FINISH Research Paper due by Sunday March 11 9PM
-	* PREPARE for Trip
-	* CONNECT with Maker Mentor to share prototype and begin discussing ways to test the idea	
+	* PREPARE for Trip	
 
 ### SPRING BREAK WEEK
-* Projected trip dates: Tuesday March 13th - Monday March 19th
+* Trip dates: Tuesday March 13th - Monday March 19th
 
 ### WEEK 8 - Mar 21st
 
@@ -169,6 +170,7 @@ WEEKS 12 - 15: Final Production Cycle & Analysis
 * Post-trip Discussion  
 	* Activity: What I Saw & What It Means
 	* Attempt to put the trip in context and how it relates to the project brief.
+* Visit by Matt Karau from Engineering for Social Impact Class
 * Outline initial 3-Week Production Cycle Plan
 * Post Class
 	* WRITE 800-1000 word reflection on Nepal trip and how it changed your understanding of the project brief due Sunday March 25 9PM
