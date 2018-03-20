@@ -174,7 +174,7 @@ WEEKS 12 - 15: Final Production Cycle & Analysis
 * Outline initial 3-Week Production Cycle Plan
 * Post Class
 	* WRITE 800-1000 word reflection on Nepal trip and how it changed your understanding of the project brief due Sunday March 25 9PM. The reflection should highlight any significant moments, conversations, site visits, etc during the trip that you see as particularly influential in shaping the future direction of your project. 
-	* GENERATE new ideas + avenues of progress for your prototype
+	* GENERATE new ideas + avenues of progress for your project
 	* CREATE a 3-Week Production Cycle
 
 ### WEEK 9
