@@ -141,7 +141,7 @@ WEEKS 12 - 15: Final Production Cycle & Analysis
 * Post Class
 	* WORK on prototype idea & document work
 	* PREPARE for WeSTEM Workshop
-	* WRITE 1000 - 1200 word Research Paper incorporating theoretical material & interviews. The paper should be uploaded to the Google Drive by Sunday March 11 9PM
+	* WRITE 1000 - 1200 word Research Paper incorporating theoretical material & interviews. The paper should be uploaded to the Google Drive by Monday March 12 9PM
 
 ### ***Saturday March 3 WeSTEM Conference Workshops***
 	
@@ -173,9 +173,9 @@ WEEKS 12 - 15: Final Production Cycle & Analysis
 * Visit by Matt Karau from Engineering for Social Impact Class
 * Outline initial 3-Week Production Cycle Plan
 * Post Class
-	* WRITE 800-1000 word reflection on Nepal trip and how it changed your understanding of the project brief due Sunday March 25 9PM
+	* WRITE 800-1000 word reflection on Nepal trip and how it changed your understanding of the project brief due Sunday March 25 9PM. The reflection should highlight any significant moments, conversations, site visits, etc during the trip that you see as particularly influential in shaping the future direction of your project. 
 	* GENERATE new ideas + avenues of progress for your prototype
-	* SET 3-Week Production Cycle
+	* CREATE a 3-Week Production Cycle
 
 ### WEEK 9
 * Skype call with Karkhana  
@@ -199,10 +199,10 @@ WEEKS 12 - 15: Final Production Cycle & Analysis
 * Continue reworking project based on Maker Mentor & user testing feedback
 
 ### WEEK 14
-* Share final project and documentation with Karkhana and Maker Mentor
-* Present final project at IM End-of-Semester Show
+* Share Final Project and Documentation with Karkhana and Maker Mentor
 
 ### WEEK 15
 * Final Project & Documentation due
-* Final Analysis Paper Due
+* Present final project at IM End-of-Semester Show
+* Final Analysis Paper Due by 6pm Thursday May 10th
 
