@@ -178,9 +178,13 @@ WEEKS 12 - 15: Final Production Cycle & Analysis
 	* CREATE a 3-Week Production Cycle
 
 ### WEEK 9
-* Skype call with Karkhana  
-	* Share plans for next Production Cycle  
-* Discuss and critique ideas  
+
+#### 75 min class: Group Presentations
+* Present plans for Week Production Cycle  
+* Discuss and critique ideas
+
+#### 150 min class: Work Session
+* TBD - Skype Call with Maker Mentor
 * Post Class  
 	* WORK on project
 	* CONNECT with Maker Mentor to share updated project plans
