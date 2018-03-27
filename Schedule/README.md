@@ -184,15 +184,17 @@ WEEKS 12 - 15: Final Production Cycle & Analysis
 * Discuss and critique ideas
 
 #### 150 min class: Work Session
-* TBD - Skype Call with Maker Mentor
+* Group Workshop
 * Post Class  
 	* WORK on project
 	* CONNECT with Maker Mentor to share updated project plans
 
 ### WEEK 10
-* Share initial deliverables with Maker Mentor
+* Group Update
+* In-Class Skype Call with Hasin & Maker Mentor
 
 ### WEEK 11
+* Complete 3 Week Production Cycle
 * Transfer project execution to Maker Mentor
 
 ### WEEK 12
@@ -204,9 +206,10 @@ WEEKS 12 - 15: Final Production Cycle & Analysis
 
 ### WEEK 14
 * Share Final Project and Documentation with Karkhana and Maker Mentor
+* Present Final Project in Class
 
 ### WEEK 15
 * Final Project & Documentation due
-* Present final project at IM End-of-Semester Show
+* Present Final Project at IM End-of-Semester Show
 * Final Analysis Paper Due by 6pm Thursday May 10th
 
