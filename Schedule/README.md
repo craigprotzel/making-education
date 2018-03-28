@@ -187,10 +187,14 @@ WEEKS 12 - 15: Final Production Cycle & Analysis
 * Group Workshop
 * Post Class  
 	* WORK on project
-	* CONNECT with Maker Mentor to share updated project plans
+	* PREPARE object/item/activity for "Show & Tell Exercise". Whatever you do, it should be a way to share new research and work that your group has done.
 
 ### WEEK 10
+#### 75 min class: Show & Tell
 * Group Update
+* Show & Tell Exercise
+
+#### 150 min class: Work Session
 * In-Class Skype Call with Hasin & Maker Mentor
 
 ### WEEK 11
