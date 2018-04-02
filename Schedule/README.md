@@ -164,7 +164,7 @@ WEEKS 12 - 15: Final Production Cycle & Analysis
 ### SPRING BREAK WEEK
 * Trip dates: Tuesday March 13th - Monday March 19th
 
-### WEEK 8 - Mar 21st
+### WEEK 8 - Mar 21
 
 #### 150 min class: Observations & Reflections
 * Post-trip Discussion  
@@ -177,7 +177,7 @@ WEEKS 12 - 15: Final Production Cycle & Analysis
 	* GENERATE new ideas + avenues of progress for your project
 	* CREATE a 3-Week Production Cycle
 
-### WEEK 9
+### WEEK 9 - Mar 26 & 28
 
 #### 75 min class: Group Presentations
 * Present plans for Week Production Cycle  
@@ -189,31 +189,65 @@ WEEKS 12 - 15: Final Production Cycle & Analysis
 	* WORK on project
 	* PREPARE object/item/activity for "Show & Tell Exercise". Whatever you do, it should be a way to share new research and work that your group has done.
 
-### WEEK 10
+### WEEK 10 - April 2 & 4
 #### 75 min class: Show & Tell
 * Group Update
 * Show & Tell Exercise
 
 #### 150 min class: Work Session
 * In-Class Skype Call with Hasin & Maker Mentor
+* Schedule One-on-One meeting with Craig
+* Post Class  
+	* COMPLETE 3 Week Production Cycle with presentation update on Wed 
 
-### WEEK 11
-* Complete 3 Week Production Cycle
-* Transfer project execution to Maker Mentor
+### WEEK 11 - April 9 & 11
+#### 75 min class: Work Session
+* Call with Maker Mentor @12:15pm
 
-### WEEK 12
-* Call with Maker Mentor to get feedback from user testing
-* Begin reworking project based on Maker Mentor & user testing feedback
+#### 150 min class: Update Session
+* 3 Week Production Cycle Presentations
+* Guest - Anna Davitt from Global Edu
+* Post Class
+	* CREATE plan for Final Production Cycle
+	* OUTLINE Final Project deliverables	
 
-### WEEK 13
-* Continue reworking project based on Maker Mentor & user testing feedback
+### WEEK 12 -  April 16 & 18
+#### 75 min class: Work Session
+* Call with Maker Mentor @12:15pm
+* Post Class
+	* REWORK project based on Maker Mentor & User Testing feedback
 
-### WEEK 14
+#### 150 min class: Update Session
+* Group sharing exercise + feedback
+* POST Class
+	* WORK on Final Project
+
+### WEEK 13 - April 23 & 25
+#### 75 min class: Work Session
+* Call with Maker Mentor @12:15pm
+
+#### 150 min class: Update Session
+* Group sharing exercise + feedback
+	* COMPLETE Final Project
+	* PREPARE for Final Project Presentation on May 2
+
+### WEEK 14 - April 30 & May 2
+#### 75 min class: Work Session
+* Call with Maker Mentor @12:15pm
+
+#### 150 min class: Final Presenetation Session
 * Share Final Project and Documentation with Karkhana and Maker Mentor
 * Present Final Project in Class
+* Guests - TBD
+* POST Class
+	* PREPARE for IM End-of-Semester Spring Show (Mon May 7 6:30pm-8:30pm)
+	* WRITE Final Analysis Paper
+	* COMPLETE PEER Review form
 
-### WEEK 15
+### WEEK 15 - May 7
+#### 75 min class: Last Class
 * Final Project & Documentation due
+* Course Review
 * Present Final Project at IM End-of-Semester Show
 * Final Analysis Paper Due by 6pm Thursday May 10th
 
