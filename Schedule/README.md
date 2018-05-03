@@ -248,8 +248,7 @@ WEEKS 12 - 15: Final Production Cycle & Analysis
 		* Major insight gleaned from the project 
 		* Were your expectations met in terms of the project?
 		* Next steps if the project is to continue 
-
-	Pleas upload the paper to the Google Drive by Thursday May 10 6PM.
+	Please upload the paper to the Google Drive by Thursday May 10 6PM.
 	* COMPLETE PEER Review form
 
 ### WEEK 15 - May 7
