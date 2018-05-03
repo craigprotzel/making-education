@@ -241,7 +241,15 @@ WEEKS 12 - 15: Final Production Cycle & Analysis
 * Guests - TBD
 * POST Class
 	* PREPARE for IM End-of-Semester Spring Show (Mon May 7 6:30pm-8:30pm)
-	* WRITE Final Analysis Paper
+	* WRITE Final Analysis Paper. The paper should be 1000 - 1200 words and incorporate the following:
+		* Description of your final project
+		* Explanation motivations for producing this project, why did you choose to do this?
+		* Theoretical and practical support for the decisions made in the project's creation
+		* Major insight gleaned from the project 
+		* Were your expectations met in terms of the project?
+		* Next steps if the project is to continue 
+
+	Pleas upload the paper to the Google Drive by Thursday May 10 6PM.
 	* COMPLETE PEER Review form
 
 ### WEEK 15 - May 7
