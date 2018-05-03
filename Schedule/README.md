@@ -246,7 +246,7 @@ WEEKS 12 - 15: Final Production Cycle & Analysis
 		* Explanation motivations for producing this project, why did you choose to do this?
 		* Theoretical and practical support for the decisions made in the project's creation
 		* Major insight gleaned from the project 
-		* Were your expectations met in terms of the project?
+		* Were your expectations met?
 		* Next steps if the project is to continue   
 
 ### WEEK 15 - May 7
