@@ -235,7 +235,7 @@ WEEKS 12 - 15: Final Production Cycle & Analysis
 #### 75 min class: Work Session
 * Call with Maker Mentor @12:15pm
 
-#### 150 min class: Final Presenetation Session
+#### 150 min class: Final Presentation Session
 * Share Final Project and Documentation with Karkhana and Maker Mentor
 * Present Final Project in Class
 * Guests - TBD
